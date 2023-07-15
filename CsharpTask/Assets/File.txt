@@ -1,0 +1,14 @@
+boolData - True
+byteData - 1
+sbyteData - 2
+shortData - 8
+ushortData - 4
+intData - 8
+uintData - 6
+longData - 48
+ulongData - 8
+floatData - 10,92
+doubleData - 14,123
+decimalData - 11,21
+charData - z
+stringData - 13 is terrible number

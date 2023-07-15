@@ -3,9 +3,10 @@ using UnityEngine;
 
 public class FileCreator : MonoBehaviour
 {
-    private void Awake()
+    [SerializeField] private DataTypes _dataTypes;
+
+    public void WriteData()
     {
-        DataTypes dataTypes = new DataTypes();
-        File.WriteAllText(".\\Assets\\File.txt", dataTypes.ToString());
+        File.WriteAllText(".\\Assets\\File.txt", _dataTypes.ToString());
     }
 }

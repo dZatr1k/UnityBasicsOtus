@@ -1,4 +1,6 @@
-public class DataTypes
+using UnityEngine;
+
+public class DataTypes : MonoBehaviour
 {
     //Логический тип данных
     public bool boolData = true;
@@ -27,6 +29,12 @@ public class DataTypes
     public int CastToInt(short number) => (int)number;
     public double CastToDouble(float number) => (double)number;
     public int CastToInt(float number) => (int)number;
+
+    public void IncrementInt() {intData++;}
+    public void IncrementFloat() {floatData++;}
+    public void IncrementDouble() {doubleData++;}
+    public void IncrementShort() {shortData++;}
+    public void IncrementLong() {longData++;}
 
     public override string ToString()
     {
