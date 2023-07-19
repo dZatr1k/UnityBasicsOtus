@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 using System.Text;
 using UnityEngine;
 
@@ -86,6 +87,6 @@ public class ArrayTask : MonoBehaviour
         TestArray<T> array = new TestArray<T>();
         array.FillArray(startValue, count);
 
-        Debug.Log(array.ToString());
+        File.WriteAllText(".\\Assets\\File.txt", array.ToString());
     }
 }
