@@ -23,7 +23,7 @@ namespace Homework.Dogs
         {
             ChangeColor();
 
-            Move = new Walk(this, -4, 4, 1);
+            Move = new Run(this, 4, -Mathf.PI, Mathf.PI, 1);
             Move.OnDirectionChanged += OnDirectionChanged;
 
             InputController.Instance.OnColorChanged += OnColorChanged;
