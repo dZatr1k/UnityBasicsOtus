@@ -297,6 +297,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _totalAmount: 4
   _spawnDelay: 2
+  _destroyDelay: 1
+  _destroyChance: 25
   _objectsToSpawn:
   - {fileID: 2224102053953922162, guid: 746bf4498b3bc24a7ade79b3b7eee20f, type: 3}
   - {fileID: 2224102053953922162, guid: a7d35301e4dd5716eb6fcd2d62cb6812, type: 3}
