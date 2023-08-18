@@ -1,0 +1,8 @@
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\bin\Debug\DungeonGame.exe.config
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\bin\Debug\DungeonGame.exe
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\bin\Debug\DungeonGame.pdb
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\obj\Debug\DungeonGame.csproj.AssemblyReference.cache
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\obj\Debug\DungeonGame.csproj.SuggestedBindingRedirects.cache
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\obj\Debug\DungeonGame.csproj.CoreCompileInputs.cache
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\obj\Debug\DungeonGame.exe
+C:\FilesXD\git\UnityBasicsOtus\DungeonGame\DungeonGame\obj\Debug\DungeonGame.pdb
